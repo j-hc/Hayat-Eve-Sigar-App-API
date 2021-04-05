@@ -6,7 +6,7 @@
 	<tbody>
 		<tr>
 			<td>Host</td>
-			<td>hessvc.saglik.gov.tr</td>
+			<td>https://hessvc.saglik.gov.tr</td>
 		</tr>
 		<tr>
 			<td>Protocol</td>
