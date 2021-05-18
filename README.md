@@ -1,3 +1,9 @@
+Welcome to the demo:
+
+1. Write Markdown text on the left
+2. Hit the __Parse__ button or `⌘ + Enter`
+3. See the result to on the right
+
 
 # Turkey Hayat Eve Sığar Corona Statistics and Prevention App API
 
@@ -29,6 +35,11 @@
 			<td>Authorization</td>
 			<td>See "Authorization" below</td>
 			<td>Expires in 1 MONTH</td>
+		</tr>
+		<tr>
+			<td>Content-Type</td>
+			<td>application/json</td>
+			<td></td>
 		</tr>
 	</tbody>
 </table>
@@ -109,3 +120,4 @@ bearer token consist of base64 encoded string with the following format and some
 concatenated with some static base64 bytes
 
 (sub is userId)
+
